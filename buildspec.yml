@@ -4,3 +4,4 @@ phases:
   build:
     commands:
       - cat README.md
+      - echo "wow"
