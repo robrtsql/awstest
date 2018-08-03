@@ -3,5 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - cat README.md
-      - echo "wow"
+      - ls -alrt
